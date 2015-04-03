@@ -1,3 +1,4 @@
+require 'sshkit'
 require 'capistrano/dsl'
 require 'capistrano/multiconfig/dsl'
 
